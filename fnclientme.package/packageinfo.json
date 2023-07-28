@@ -1,0 +1,12 @@
+{
+  "id": "de.tobi.fnclientme",
+  "package_format_version": 2,
+  "loc_name": "Funknetz Mobile Client",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "miniicon": "icon.png",
+  "vendor": "Tobias Burkard",
+  "vendorurl": "accg.de",
+  "app": "de.tobi.fnclientme.application",
+  "services": ["de.tobi.fnclientme.service"]
+}

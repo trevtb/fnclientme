@@ -1,0 +1,19 @@
+<!-- TODO: replace the contents of this file with your own html -->
+<div class="palm-header-spacer"></div>
+<div class="palm-body-text">
+	Please choose wether you want to control a single device or a whole group, then select the device/group
+	and hit 'ON', 'OFF' or 'Edit' to fire that action on the selected element.
+</div>
+<div class="palm-row" x-mojo-tap-highlight="momentary">
+	<div class="palm-row-wrapper">
+    	<div id="selector" x-mojo-element="ListSelector"></div>  
+    </div>
+</div>
+<div class="palm-row last" x-mojo-tap-highlight="momentary">
+	<div class="palm-row-wrapper">
+		<div x-mojo-element="Button" id="on_button"></div>   
+		<div x-mojo-element="Button" id="off_button"></div> 
+		<div x-mojo-element="Button" id="edit_button"></div>   
+	</div>
+</div>  
+

@@ -1,0 +1,9 @@
+{
+	"id": "de.tobi.fnclientme.application",
+	"version": "1.0.0",
+	"vendor": "Tobias Burkard",
+	"type": "web",
+	"main": "index.html",
+	"title": "FNClientME",
+	"icon": "icon.png"
+}

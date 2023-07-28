@@ -1,0 +1,14 @@
+{
+"id": "de.tobi.fnclientme.service",
+"description": "Service for connecting to FNServer",
+"activityTimeout" : 30,
+"services": [{
+"name": "de.tobi.fnclientme.service",
+"description": "Handles the data transmission with FNServer",
+"commands": [{
+    "name" : "transmit",
+    "assistant" : "FNCommandAssistant",
+    "public" : true
+    }]
+ }]
+}

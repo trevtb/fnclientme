@@ -1,0 +1,24 @@
+[
+	{
+        "source": "app/lib/Cookie.js"
+    },
+	{
+        "source": "app/assistants/settingsDialog-assistant.js"
+    },
+	{
+        "source": "app/assistants/aboutDialog-assistant.js"
+    },
+	{
+        "source": "app/assistants/editDeviceDialog-assistant.js"
+    },
+    {
+        "source": "app/assistants/editGroupDialog-assistant.js"
+    },
+    {
+        "source": "app/assistants/stage-assistant.js"
+    },
+    {
+        "scenes": "first",
+        "source": "app/assistants/first-assistant.js"
+    },
+]
